@@ -17,12 +17,6 @@ A modern, SwiftUI-based iOS app that allows users to browse coffee products, vie
 
 ---
 
-## Screenshots
-
-> _You can insert screenshots here after building the app_
-
----
-
 ## Tech Stack
 
 - **Language**: Swift 5
