@@ -13,5 +13,5 @@ Make sure to have **Xcode 14+** installed with **SwiftUI support** before runnin
 ### Steps
 
 1. **Clone the Repository**
-   git clone https://github.com/Chen-Connie/ABG-Coffee-iOS-App-project.git
-   cd ABG-Coffee-iOS-App-project
+   - git clone https://github.com/Chen-Connie/ABG-Coffee-iOS-App-project.git
+   - cd ABG-Coffee-iOS-App-project
