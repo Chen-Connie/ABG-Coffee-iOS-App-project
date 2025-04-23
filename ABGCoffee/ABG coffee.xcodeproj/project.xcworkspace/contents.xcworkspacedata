@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../../Desktop/ABG Coffee Project/ABG coffee Tabview/ABG coffee/Store">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Desktop/ABG Coffee Project/ABG coffee Tabview/ABG coffee/SelfPick">
+   </FileRef>
+   <FileRef
+      location = "group:../../../Desktop/ABG Coffee Project/ABG coffee Tabview/ABG coffee/Delivery">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
