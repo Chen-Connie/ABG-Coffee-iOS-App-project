@@ -81,6 +81,6 @@ Feel free to reach out with questions or collaborations.
 
 ---
 
-## 📄 License
+## License
 
 This project is for academic and demonstration purposes. Licensing can be added based on future development or distribution.
