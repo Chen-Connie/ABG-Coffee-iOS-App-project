@@ -3,7 +3,7 @@
 A modern, SwiftUI-based iOS app that allows users to browse coffee products, view promotions, and place orders for pickup or delivery. Designed with a clean user interface and intuitive navigation, this app brings the cafe experience to your fingertips.
 
 > Built as part of a UI/UX-focused mobile development project
-
+> [View UI/UX Design on Figma](https://www.figma.com/design/wGLTiTSUoTCPXhU6jxBhJN/Connie-Chen-s-team-library?node-id=0-1&t=nZky2vGQhHYTsO2c-1)
 ---
 
 ## Features
@@ -81,6 +81,10 @@ Feel free to reach out with questions or collaborations.
 
 ---
 
-## License
+## Future Improvements
 
-This project is for academic and demonstration purposes. Licensing can be added based on future development or distribution.
+- Implement full backend ordering system
+- Enable order status updates via push notifications
+- Expand payment integration (Apple Pay, etc.)
+
+---
